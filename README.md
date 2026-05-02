@@ -12,8 +12,7 @@ Demo
 
 - Live: https://portfolio-984z.onrender.com/
  - Live: https://portfolio-984z.onrender.com/
-
-![Demo screenshot](assets/images/demo-screenshot.svg)
+ - Live: https://portfolio-984z.onrender.com/
 
 Features
 --------
