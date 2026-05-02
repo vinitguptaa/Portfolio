@@ -1,0 +1,9 @@
+services:
+  - type: static_site
+    name: vinit-portfolio  # change this to a unique name for your Render service
+    env: static
+    plan: free
+    staticPublishPath: .
+    buildCommand: ""  # no build step for plain static sites
+    repo: "REPLACE_WITH_GITHUB_REPO_URL"  # e.g. https://github.com/username/repo
+    branch: main
