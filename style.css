@@ -411,6 +411,13 @@ h1 {
   color: transparent;
 }
 
+.profile-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 .orbit {
   position: absolute;
   border: 1px solid rgba(94, 231, 223, 0.35);
